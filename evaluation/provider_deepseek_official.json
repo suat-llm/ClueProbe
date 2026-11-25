@@ -1,0 +1,11 @@
+{
+  "endpoint": "https://api.deepseek.com/chat/completions",
+  "model": "deepseek-flash",
+  "api_key_env": "DEEPSEEK_API_KEY",
+  "temperature": 0,
+  "max_tokens": 256,
+  "thinking": {"type": "disabled"},
+  "access_channel": "DeepSeek official API",
+  "documented_version_at_setup": "DeepSeek-V4.1-Flash-1017",
+  "version_note": "Alias may change; record returned model and model listing at execution. Not yet live-verified."
+}

@@ -1,0 +1,7 @@
+# Reference runtime: torch 2.5.1+cu121; install torch/torchvision separately.
+transformers==4.46.3
+accelerate==1.14.0
+opencv-python-headless==4.11.0.86
+imageio==2.37.0
+numpy
+safetensors

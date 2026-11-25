@@ -1,0 +1,3 @@
+# The API adapter also requires system curl. No GPU is required.
+numpy
+opencv-python-headless

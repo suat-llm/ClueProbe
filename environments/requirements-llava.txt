@@ -1,0 +1,9 @@
+# Reference runtime: torch 2.5.1+cu121; install matching CUDA builds separately.
+transformers==5.16.1
+tokenizers==0.23.1
+accelerate==1.14.0
+safetensors==0.8.0
+numpy==2.2.6
+decord==0.6.0
+timm==1.0.31
+open_clip_torch==3.3.0

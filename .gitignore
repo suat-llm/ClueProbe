@@ -1,0 +1,23 @@
+# Ignore dataset content changes
+/datasets/**
+!/datasets/.gitkeep
+!/datasets/README.md
+
+__pycache__/
+*.pyc
+*.egg-info/
+.venv/
+.env
+.env.*
+!.env.example
+outputs/
+runs/
+*.safetensors
+*.mp4
+*.log
+
+/data/**
+!/data/examples/
+!/data/examples/**
+/models/**
+!/models/.gitkeep

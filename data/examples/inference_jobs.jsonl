@@ -1,0 +1,15 @@
+{"exp": "LADDER", "sample_id": "demo_ladder", "item": "demo_ladder", "variant": "k0", "question": "What color is the example object?", "video_file": "datasets/example.mp4", "prompt_id": "P0", "input_mode": "video"}
+{"exp": "LADDER", "sample_id": "demo_ladder", "item": "demo_ladder", "variant": "k1", "question": "What color is the example object?", "video_file": "datasets/example.mp4", "prompt_id": "P0", "input_mode": "video"}
+{"exp": "LADDER", "sample_id": "demo_ladder", "item": "demo_ladder", "variant": "k2", "question": "What color is the example object?", "video_file": "datasets/example.mp4", "prompt_id": "P0", "input_mode": "video"}
+{"exp": "LADDER", "sample_id": "demo_ladder", "item": "demo_ladder", "variant": "k3", "question": "What color is the example object?", "video_file": "datasets/example.mp4", "prompt_id": "P0", "input_mode": "video"}
+{"exp": "LADDER", "sample_id": "demo_ladder", "item": "demo_ladder", "variant": "k4", "question": "What color is the example object?", "video_file": "datasets/example.mp4", "prompt_id": "P0", "input_mode": "video"}
+{"exp": "INDUCE", "sample_id": "demo_induce", "item": "demo_induce", "variant": "v0", "question": "What is the example object?", "video_file": "datasets/example.mp4", "prompt_id": "P0", "input_mode": "video"}
+{"exp": "INDUCE", "sample_id": "demo_induce", "item": "demo_induce", "variant": "v0", "question": "What is the example object?", "video_file": null, "prompt_id": "P0", "input_mode": "none"}
+{"exp": "INDUCE", "sample_id": "demo_induce", "item": "demo_induce", "variant": "v0", "question": "What is the example object?", "video_file": "datasets/example.mp4", "prompt_id": "P1", "input_mode": "video"}
+{"exp": "INDUCE", "sample_id": "demo_induce", "item": "demo_induce", "variant": "v0", "question": "What is the example object?", "video_file": null, "prompt_id": "P1", "input_mode": "none"}
+{"exp": "INDUCE", "sample_id": "demo_induce", "item": "demo_induce", "variant": "v6", "question": "What is the example object?", "video_file": "datasets/replacement.mp4", "prompt_id": "P0", "input_mode": "swap"}
+{"exp": "INDUCE", "sample_id": "demo_induce", "item": "demo_induce", "variant": "v6", "question": "What is the example object?", "video_file": "datasets/replacement.mp4", "prompt_id": "P1", "input_mode": "swap"}
+{"exp": "INDUCE", "sample_id": "demo_induce", "item": "demo_induce", "variant": "v7", "question": "What is the example object?", "video_file": "datasets/black.mp4", "prompt_id": "P0", "input_mode": "black"}
+{"exp": "INDUCE", "sample_id": "demo_induce", "item": "demo_induce", "variant": "v7", "question": "What is the example object?", "video_file": "datasets/black.mp4", "prompt_id": "P1", "input_mode": "black"}
+{"exp": "INDUCE", "sample_id": "demo_unanswerable", "item": "demo_unanswerable", "variant": "u0", "question": "What cannot be observed in this example?", "video_file": null, "prompt_id": "P0", "input_mode": "none"}
+{"exp": "INDUCE", "sample_id": "demo_unanswerable", "item": "demo_unanswerable", "variant": "u0", "question": "What cannot be observed in this example?", "video_file": null, "prompt_id": "P1", "input_mode": "none"}

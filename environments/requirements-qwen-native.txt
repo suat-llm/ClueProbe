@@ -1,0 +1,7 @@
+# Install the matching torch/torchvision CUDA pair separately.
+transformers==5.16.1
+tokenizers==0.23.1
+accelerate==1.14.0
+av==17.1.0
+safetensors
+numpy

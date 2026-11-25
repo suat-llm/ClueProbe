@@ -1,0 +1,206 @@
+[
+  {
+    "target": "runners/main_text/run_qwen.py",
+    "source_group": "archive-review-20261125",
+    "original_sha256": "92c5aff760e1a2661e6ed986d7eb88e45d7096e4594d4ff7df27dac11d925d45",
+    "modification": "none"
+  },
+  {
+    "target": "runners/ladder_induce/run_qwen2b.py",
+    "source_group": "source-review-20261124",
+    "original_sha256": "d91469c00254ba6e5cb101bc02bb1f1d9cf0e3b5d94c30eaf78c858ece115748",
+    "modification": "none"
+  },
+  {
+    "target": "runners/ladder_induce/run_native_qwen.py",
+    "source_group": "source-review-20261124",
+    "original_sha256": "7812eecf2aaa32afad3440b184d99c23d841a22000d4c06f4cd30619443e3989",
+    "modification": "none"
+  },
+  {
+    "target": "runners/ladder_induce/run_videollama3.py",
+    "source_group": "source-review-20261124",
+    "original_sha256": "ee79e4b1702a1d0fe0d5ef76cfcb59176023c59cc7975d4e4534d172a584ba02",
+    "modification": "none"
+  },
+  {
+    "target": "runners/ladder_induce/adapters/runner_a6000_snapshot.py",
+    "source_group": "source-review-20261124",
+    "original_sha256": "63dfbe664e6f37eeb2cf5eef1918b637a8e39a459198593e5eee44a62b6e3588",
+    "modification": "none"
+  },
+  {
+    "target": "evaluation/judge.py",
+    "source_group": "archive-review-20261125",
+    "original_sha256": "a93e22d20ea59bc2d5d442dde42063c9a42ed38976a72a756b6bea6582ff98e5",
+    "modification": "none"
+  },
+  {
+    "target": "evaluation/calibrate.py",
+    "source_group": "archive-review-20261125",
+    "original_sha256": "eef19c0d765bb0c8984dfe75ab11b69eedcde20c66f6880c56fa3750f784e17b",
+    "modification": "none"
+  },
+  {
+    "target": "evaluation/prepare_production.py",
+    "source_group": "archive-review-20261125",
+    "original_sha256": "4af0fe35d876d3e57700254578d088560e5c3e74a07607b37fa2e52c1534dc6f",
+    "modification": "none"
+  },
+  {
+    "target": "evaluation/build_calibration.py",
+    "source_group": "archive-review-20261125",
+    "original_sha256": "c7543534f7b2fbd0f649dbd8fdd15f35d23b22a9a72160796b0e90c31905dba1",
+    "modification": "none"
+  },
+  {
+    "target": "evaluation/prepare_original06.py",
+    "source_group": "archive-review-20261125",
+    "original_sha256": "4dbb58a63c501a6acb083e396cebe611fe6a398f2aefddd67a1f62142f445842",
+    "modification": "none"
+  },
+  {
+    "target": "evaluation/run_deepseek_calibration.py",
+    "source_group": "archive-review-20261125",
+    "original_sha256": "33596640f9b2212a1be5cd947043c99b8464b17b45fd3402c31f93ff148f5cb8",
+    "modification": "none"
+  },
+  {
+    "target": "evaluation/summarize_deepseek_calibration.py",
+    "source_group": "archive-review-20261125",
+    "original_sha256": "494badb107fd9f15138448f0b67b679eb327b3363d0bf951e6aedbebffc50ff1",
+    "modification": "none"
+  },
+  {
+    "target": "evaluation/v11_prompts.json",
+    "source_group": "archive-review-20261125",
+    "original_sha256": "32dff4d0d93f14c5ac798cab4a76e035a8813bdc9f81d6652c43d75d6aeaf9df",
+    "modification": "none"
+  },
+  {
+    "target": "evaluation/provider_deepseek_official.json",
+    "source_group": "archive-review-20261125",
+    "original_sha256": "e559d9fd1fcf45d8f482e945762e258654f8af6bc100fe2489360b009e5e0f8e",
+    "modification": "none"
+  },
+  {
+    "target": "src/video_ooc/__init__.py",
+    "source_group": "video-ooc",
+    "original_sha256": "fd11a3d22e8628fa3537a358197d1fab4504f3d67fc08dc6624b3de7c9de2297",
+    "modification": "none"
+  },
+  {
+    "target": "src/video_ooc/prompts.py",
+    "source_group": "video-ooc",
+    "original_sha256": "42bff6830fa2207b198ae1be58a40b404a5d7c2f5cc7dda4c469d40c4f2c7bc7",
+    "modification": "none"
+  },
+  {
+    "target": "src/video_ooc/manifest.py",
+    "source_group": "video-ooc",
+    "original_sha256": "6a0edc19f41dddb51d6fcc3406a5004b7797a9df0d3a8ba333736f1a057423df",
+    "modification": "none"
+  },
+  {
+    "target": "src/video_ooc/evaluation.py",
+    "source_group": "video-ooc",
+    "original_sha256": "a075f9c31d3bf634f3db1f6dd931ec178e2da8541a9932346ce04650e5842679",
+    "modification": "none"
+  },
+  {
+    "target": "tools/validate_manifest.py",
+    "source_group": "video-ooc",
+    "original_sha256": "4049e6441da5f4cb0deacaffb3a6978cc9bd97972fd9a0384dc8157ff31147df",
+    "modification": "none"
+  },
+  {
+    "target": "tools/audit_results.py",
+    "source_group": "video-ooc",
+    "original_sha256": "98c4a4bceb19aef263b844acd137b79150a1cbcf73910463f978d5f3e224c85d",
+    "modification": "none"
+  },
+  {
+    "target": "tools/join_references.py",
+    "source_group": "video-ooc",
+    "original_sha256": "f70e94d3160aeb277d7221bdc85fbf22424b11ed78ab503637be8c9e9fc45b8c",
+    "modification": "none"
+  },
+  {
+    "target": "tests/test_evaluation.py",
+    "source_group": "video-ooc",
+    "original_sha256": "2f91b7ddacff4de6c915b689e62143f8ed224eb0e8ad6de5a554c81f0ae0bdb5",
+    "modification": "none"
+  },
+  {
+    "target": "tests/test_manifest.py",
+    "source_group": "video-ooc",
+    "original_sha256": "ebd5aff92d604f19285f23f566830d9d5f1548283ca2552ab178189a154472ca",
+    "modification": "none"
+  },
+  {
+    "target": "training/evaluate.py",
+    "source_group": "archive-review-20261125",
+    "original_sha256": "6e3e8f389adc8081ca546b38bd4dc2a4d42114add5b2bb066f8f651f1bc400c5",
+    "modification": "none"
+  },
+  {
+    "target": "training/supervised_tail_loss_candidate.py",
+    "source_group": "archive-review-20261125",
+    "original_sha256": "12b4a2dcac4ba14af26e44275a084ea757a1eb77e34137e62b6b7d13866373e4",
+    "modification": "none"
+  },
+  {
+    "target": "training/tail_trainer.py",
+    "source_group": "archive-review-20261125",
+    "original_sha256": "e7301c34131900cc448ace41b6754d891d1e23855faa560a5e60d63795a53d82",
+    "modification": "none"
+  },
+  {
+    "target": "environments/requirements-qwen-native.txt",
+    "source_group": "video-ooc",
+    "original_sha256": "7b28140d93337849ad50caabd039126114b4e5ea1ed3c18dec80a7f28e4034f8",
+    "modification": "none"
+  },
+  {
+    "target": "environments/requirements-internvideo25.txt",
+    "source_group": "video-ooc",
+    "original_sha256": "587f4df301ceff35df42913bafbf174c7d745113b881a90ba88a76beec9e39f7",
+    "modification": "none"
+  },
+  {
+    "target": "environments/requirements-videollama3.txt",
+    "source_group": "video-ooc",
+    "original_sha256": "ca0ca65cf4a78befb3a6762ef1fe4d6a9f3fc1a687a71c562cbfb6313571fe04",
+    "modification": "none"
+  },
+  {
+    "target": "environments/requirements-llava.txt",
+    "source_group": "video-ooc",
+    "original_sha256": "341e6363cdd3828c7e2ea5daad7b563a369b6543983a3badc6ad8c11893038c0",
+    "modification": "none"
+  },
+  {
+    "target": "environments/requirements-relay.txt",
+    "source_group": "video-ooc",
+    "original_sha256": "b393ecf898d73f331e38eaf8339290bb8aefc400a81acedc2587236525b959fc",
+    "modification": "none"
+  },
+  {
+    "target": "environments/requirements-modern.txt",
+    "source_group": "video-ooc",
+    "original_sha256": "1703a3d2e9f48eef64558f4ae54b340652ddf8361776a832ae88649e585cd72a",
+    "modification": "none"
+  },
+  {
+    "target": "pyproject.toml",
+    "source_group": "video-ooc",
+    "original_sha256": "3e537ca8d49eb9f5a2ad52bc3ed958989b1baf35e90f54bad50d106c0606eace",
+    "modification": "none"
+  },
+  {
+    "target": "runners/supplemental/video_frames.py",
+    "source_group": "verified Y2/Y3 handoff",
+    "original_sha256": "882b8d234c79b803591214a9f9fc61d25b40786a122bb922f17506d533b6680f",
+    "modification": "none"
+  }
+]

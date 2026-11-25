@@ -1,0 +1,9 @@
+{"exp": "LADDER", "sample_id": "demo_ladder", "item": "demo_ladder", "variant": "k0", "question": "What color is the example object?", "label": "A", "reference": "synthetic reference", "synthetic_example": true}
+{"exp": "LADDER", "sample_id": "demo_ladder", "item": "demo_ladder", "variant": "k1", "question": "What color is the example object?", "label": "A", "reference": "synthetic reference", "synthetic_example": true}
+{"exp": "LADDER", "sample_id": "demo_ladder", "item": "demo_ladder", "variant": "k2", "question": "What color is the example object?", "label": "A", "reference": "synthetic reference", "synthetic_example": true}
+{"exp": "LADDER", "sample_id": "demo_ladder", "item": "demo_ladder", "variant": "k3", "question": "What color is the example object?", "label": "A", "reference": "synthetic reference", "synthetic_example": true}
+{"exp": "LADDER", "sample_id": "demo_ladder", "item": "demo_ladder", "variant": "k4", "question": "What color is the example object?", "label": "A", "reference": "synthetic reference", "synthetic_example": true}
+{"exp": "INDUCE", "sample_id": "demo_induce", "item": "demo_induce", "variant": "v0", "question": "What is the example object?", "label": "A", "reference": "synthetic reference", "synthetic_example": true}
+{"exp": "INDUCE", "sample_id": "demo_induce", "item": "demo_induce", "variant": "v6", "question": "What is the example object?", "label": "U", "reference": "synthetic reference", "synthetic_example": true}
+{"exp": "INDUCE", "sample_id": "demo_induce", "item": "demo_induce", "variant": "v7", "question": "What is the example object?", "label": "U", "reference": "synthetic reference", "synthetic_example": true}
+{"exp": "INDUCE", "sample_id": "demo_unanswerable", "item": "demo_unanswerable", "variant": "u0", "question": "What cannot be observed in this example?", "label": "U", "reference": "synthetic reference", "synthetic_example": true}

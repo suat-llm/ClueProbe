@@ -1,0 +1,9 @@
+{
+  "note": "Paths are relative to the repository root. This file documents layout; use the actual CLI options in README. It is not loaded automatically.",
+  "benchmark_annotations": "datasets/annotations",
+  "charades_videos": "datasets/videos/Charades_v1_480_mute",
+  "ego4d_videos": "datasets/videos/Ego4D_v2_540ss_mute",
+  "model_checkpoints": "models",
+  "run_root": "runs/experiment_name",
+  "output_root": "outputs/experiment_name"
+}
