@@ -38,7 +38,7 @@ The public closed-model adapter defaults to offline validation and uses official
 - Supplemental InternVL/InternVideo: [portable run options](docs/supplemental.md), preserving frame counts and generation limits; GPU validation pending.
 - Judge: `evaluation/judge.py` and the exact frozen `v11_prompts.json`. Stages: behavior, content, induction. Dry-run is default; `--execute` invokes the configured provider. Calibration source selection is not automatically accepted as human gold.
 - Trained-model evaluation: `training/evaluate.py`; supply the original base model or trained adapter and input manifest. The assistant-tail loss modules preserve the actual training objective; complete training deployment is still being integrated.
-- Structural audits: `tools/validate_manifest.py`, `tools/audit_results.py`, `tools/join_references.py`. They do not measure semantic accuracy. `scripts/calculate.py` currently dispatches the coverage audit, not a replacement for final paper statistics.
+- Structural audits: `tools/validate_manifest.py`, `tools/audit_results.py`, `tools/join_references.py`. They do not measure semantic accuracy. `scripts/calculate.py --workflow coverage` audits coverage; `--workflow y2y3` reproduces the final supplemental statistics from its frozen scored package. See [statistics reproduction](docs/statistics.md).
 
 ## Dataset download and placement
 

@@ -1,0 +1,12 @@
+{
+  "entry": "statistics/reproduce_y2y3.py",
+  "source": "final Y2Y3 prepare_n21.py",
+  "original_sha256": "d5f9fbf6cbac649e79ee7b45011417581ddea8be29c99bf85ce7f8f9b9d7c981",
+  "changes": [
+    "explicit package/inventory/output paths",
+    "replace hardcoded outcome counts with arithmetic consistency checks",
+    "retain published CSV comparison, complete source-key coverage and per-model judgment SHA checks",
+    "no paid API or workbook dependency"
+  ],
+  "public_result_files_included": false
+}
